@@ -1,0 +1,104 @@
+Classes: 
+
+Sword: 
+Swordsman
+Strength increases by 50% when hp is less than 30%
+
+Sword, Shield: 
+Paladin
+Defense increases by 25% when hp is less than 30%
+
+Sword, Sword: 
+Knight
+Agility increases by 25% when hp is less than 30%
+
+Sword, Tome: 
+Protector
+SP fully restored when hp is less than 30%
+
+Sword, Dagger: 
+Mercenary
+Gold earned after battle increases by 50%
+
+
+Axe: 
+Warrior
+50% chance of damage taken being halved
+
+Scythe: 
+Reaper
+25% chance of enemy's attack being cancelled out
+
+Great Sword: 
+Great Knight
+20% chance of stunning enemies with normal attack
+
+Katars: 
+Fighter
+When hp is 30% or less, Strength, Defense, Agility increased by 30%
+
+Club:
+Berserker
+10% chance to make enemy bleed, causing 1% hp drain every second for 20 seconds
+
+Dagger: 
+Thief
+Drop rate increases by 25%
+
+Dagger, Shield: 
+Rogue
+Has a 20% chance of healing 25% hp on fatal hits
+
+Dagger, Dagger:
+Assassin
+3% chance that first blow will instantly kill the enemy
+
+Dagger, Tome: 
+Magician
+Has a 5% chance of remaining unharmed during hit, and mirroring attack on enemy
+
+Tome: 
+Mage
+Sp usage is cut by half
+
+Rapier: 
+Fencer
+Drains 2% sp from enemy every normal hit
+
+Rapier, Sword:
+Crusader
+Every time you're hit, agility increases by 1%
+
+Rapier, Rapier: 
+Pro Fencer
+Heals 1% hp every normal hit
+
+Rapier, Shield: 
+Noble
+Every time you're hit, defence increases by 1%
+
+Rapier, Dagger: 
+Rogue Noble
+10% chance of being healed by attack 
+
+Rapier, Tome: 
+Holy Knight
+Every time you're hit, enemy looses 1% hp 
+
+Scythe, Tome:
+Gatekeeper
+has a 10% chance of a normal attack freezing the enemy for 30 seconds, dealing
+.5% hp per second
+
+Axe, Shield:
+Dark Knight
+Sacrifice 50% of hp on first hit of battle to double all stats but also loses
+1% hp per second 
+
+Lance:
+Dragoon 
+Main attack is doubled, defense is lowered by 25%
+
+Lance, Shield: 
+Royal Guard
+Defense is doubled, strength is lowered by 25%

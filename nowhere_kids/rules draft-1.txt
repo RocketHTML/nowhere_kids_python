@@ -1,0 +1,86 @@
+base hp: 1,000
+base sp: 100
+
+
+
+for every 1 point of strength: damage + 1% and health + .5%
+for every 1 point of defence: damage taken - .5% and health + 1%
+for every 1 point of accuracy: accuracy + 1% and critical rate + .75%
+for every 1 point of agility: attack speed + 1% and avoid rate + .75%
+for every 1 point of int: special attack damage + 1% and sp + 1%
+
+
+sp
+
+normal move takes no sp 
+each hit from a normal move recovers 1% sp
+each move costs 10 sp
+
+allowed three special moves 
+special moves all have a base of 150% of a normal move
+
+take 10% off for any status (Poison, paralyze, etc)
+take 15% off for buffs
+take 20% off for hp draining *limited 
+take 100% off for hp recovery 
+
+strength + int both power moves seperately (so 1 point strength and 1 point int
+ is 2 points here)
+
+you can add more than one condition, but for each condition, you have 
+to take off more points. EX: poison, paralyze = 20% off and hp drain + buff = 
+35% off
+
+
+mechanics 
+
+player attacks every 10 seconds at base, -.5% of that for each point of agi
+the player has
+
+classes: different weapons will allow for different skills to be put into 
+a custom character. 
+
+weapons: 
+Swordx. Axex. Scythe. Daggerx. Katar. Great sword. Club. Tomex. Rapierx.
+Knuckles. Lancex. 
+
+off hand weapons: 
+Sword. Shield. Dagger. Tome. 
+
+beta weapons:
+swordx. daggerx. tomex. lancex. 
+
+abilities: 
+When hp > 30% def increase by +10 points 
+When hp > 20% hp drain gives 10% more hp
+when hp > 40% sp use decreased by half 
+when hp > 40% cit rate increases by 15%
+
+Sp can be used to 30% instead of 75% when hp is > 50% 
+Chance of a second attack hitting at the same time, dealing +50% damage 
+Sp regain increased by +10%
+hp regain 1% per second 
+
+when hp hits 25% exactly, 1 in 100 chance of healing 25%
+first hit has 1 in 750 chance of instant kill
+every time a special attack is used, chances of next attack being crit increase
+by 10% 
+
+all extra stats will be determined by weapons alone. No stats for gaining levels.
+No stats for armor.
+classes will be based on equipment. players can specify what they want in weapons
+a list will be numbered one to five, and plays can fill the spots in order 
+of what stats they want in weapons. 1 will always have the highest value in 
+weapons they find, 5 will have the lowest. 
+
+there will be two modes: dungeons and the arena 
+The arena being the main focus of the game, and dungeons with simple maps
+that branch out in order to find items 
+
+Your skill is dependant on class. Your moves are dependant of your items and 
+what scrolls you've found. 
+
+There is no penalty for dying in the arena, but dying in the dungeon will take
+you back to the beginning. 
+
+Two of the same weapon can have different values. 
