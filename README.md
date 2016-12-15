@@ -5,7 +5,7 @@ I've been teaching people online how to code in python, and I built this python 
 
 This is the gaming tutorial that I followed: 
   
-  Website: http://programarcadegames.com/index.php /n
+  Website: http://programarcadegames.com/index.php
   
   Youtube Tutorial: https://www.youtube.com/playlist?list=PL1D91F4E6E79E73E1
 
